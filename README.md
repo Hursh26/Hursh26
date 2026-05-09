@@ -26,5 +26,11 @@
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Hursh26&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Hursh26&show_icons=true&locale=en&theme=radical&hide_border=true&v=1)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Hursh26&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&v=1)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Hursh26&show_icons=true&locale=en&theme=radical&hide_border=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Hursh26&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Hursh26&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
