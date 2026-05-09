@@ -1,25 +1,30 @@
-# Hi there 👋, I'm Kuldeep Pandey
+# Hi 👋, I'm Kuldeep Pandey
+### AI Engineer @ Pulse Diagnostics | Full-Stack ML Builder
 
-**AI Engineer @ Pulse Diagnostics | Full-Stack ML Builder | Tech Club Head**
+[![Profile Views](https://komarev.com/ghpvc/?username=Hursh26&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Hursh26)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandey-kuldeep/)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YourEmail@gmail.com)
 
-I build AI that solves real-world problems—and I teach others how to deploy it. Currently, I sit at the intersection of deep learning research, full-stack software development, and technical leadership in the HealthTech space.
+---
 
-### 🛠️ What I Do:
-- 🧠 **Computer Vision in HealthTech:** Engineering and optimizing classification/segmentation pipelines for medical imaging (Mammography) to run on heavily constrained edge hardware (4GB VRAM).
-- 💻 **Full-Stack SaaS:** Building the secure web infrastructure, APIs, and UIs to deploy ML models directly to healthcare users.
-- 🎤 **Technical Leadership:** Head of the Tech Club, architecting custom hackathon platforms and teaching peers how to package ML models into live cloud APIs.
+### 👨🏻‍💻 About Me
+* 🌱 I’m currently pursuing my **MSc in Data Science** and serving as **Head of the Tech Club**.
+* 💼 Working as an **AI Engineer** at **Pulse Diagnostics**, building end-to-end CV pipelines for medical imaging.
+* 💻 I specialize in optimizing complex neural networks for constrained hardware (4GB VRAM) and building Full-Stack SaaS to deploy them.
+* 🎓 Recently published my research paper: *"Dexter: AI-Enhanced Multimodal Desktop Assistant"*.
+* 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/pandey-kuldeep/)**
+* ⚡ Fun fact: *I architected a custom Python platform to handle dynamic algorithmic challenges for our university-wide hackathon!*
 
-### 💻 Core Stack:
-* **AI/ML:** Python, PyTorch, TensorFlow, OpenCV, Scikit-Learn
-* **Backend & APIs:** FastAPI, Flask, Render, REST APIs
-* **Web & DB:** SQL, PostgreSQL, HTML/CSS/JS, UI/UX Architecture
-* **Tools:** Git, Linux, Docker 
+---
 
-### 📈 GitHub Stats & Languages:
+### 🛠️ Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,postgres,mysql,html,css,js,git,github,docker,linux&perline=14)](https://skillicons.dev)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hursh26&show_icons=true&theme=radium&count_private=true" alt="Kuldeep's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hursh26&layout=compact&theme=radium" alt="Top Languages" height="150" />
-</p>
+---
 
-📫 **Connect with me on [LinkedIn](https://www.linkedin.com/in/pandey-kuldeep/)**
+### ⚡ GitHub Analytics 
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Hursh26&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Hursh26&show_icons=true&locale=en&theme=radical&hide_border=true&v=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Hursh26&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&v=1)](https://github.com/anuraghazra/github-readme-stats)
