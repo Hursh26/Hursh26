@@ -23,5 +23,3 @@ I build AI that solves real-world problems—and I teach others how to deploy it
 </p>
 
 📫 **Connect with me on [LinkedIn](https://www.linkedin.com/in/pandey-kuldeep/)**
-
-📫 **Connect with me on [LinkedIn](https://www.linkedin.com/in/pandey-kuldeep/)**
