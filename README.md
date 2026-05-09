@@ -15,7 +15,13 @@ I build AI that solves real-world problems—and I teach others how to deploy it
 * **Web & DB:** SQL, PostgreSQL, HTML/CSS/JS, UI/UX Architecture
 * **Tools:** Git, Linux, Docker 
 
-### 📈 GitHub Stats:
-![Kuldeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hursh26&show_icons=true&theme=radium)
+### 📈 GitHub Stats & Languages:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hursh26&show_icons=true&theme=radium&count_private=true" alt="Kuldeep's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hursh26&layout=compact&theme=radium" alt="Top Languages" height="150" />
+</p>
+
+📫 **Connect with me on [LinkedIn](https://www.linkedin.com/in/pandey-kuldeep/)**
 
 📫 **Connect with me on [LinkedIn](https://www.linkedin.com/in/pandey-kuldeep/)**
